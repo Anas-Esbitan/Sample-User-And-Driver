@@ -1,0 +1,12 @@
+I've refreshed my Java skills.
+Honestly, this test allowed me to review my Java knowledge.
+=========================================================
+I used an ArrayList to store the transactions because it is easy to work with and allows me to add transactions dynamically. I did consider other options, like using an array, but I felt ArrayList would be more flexible since it automatically resizes when needed. I didn't explore more advanced options like databases since I'm just getting started.
+==============================================================
+The implementation process was a bit challenging for me, especially when I had to implement the methods in the (PaymentProcessor) interface. It took me some time to 
+figure out how to calculate the fees correctly based on different payment types
+==================================================================================
+To improve this system for a real-world scenario, I would add validation to check if the transaction data is correct. For example, make sure the amount is positive and the payment type is valid. I would also add error handling to manage any issues that might happen during the process, and maybe use logging to track problems
+=============================================================================
+No, I didn’t fully validate the values passed as method arguments, but I realize that it’s important to check things like ensuring the amount is positive and the payment type is valid. I would add these checks in a real-world scenario to make the system more robust.
+=======================================================================================================
